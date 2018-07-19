@@ -20,7 +20,7 @@
     "build": "node build-lib.js"
   },
   "dependencies": {
-    "draggable-helper": "^1.0.10",
+    "draggable-helper": "git://github.com/shaydoc/draggable-helper.git#master",
     "helper-js": "^1.0.53",
     "tree-helper": "^1.0.5",
     "vue": "^2.5.2"
