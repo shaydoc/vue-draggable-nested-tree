@@ -1,5 +1,5 @@
 /*!
- * vue-draggable-nested-tree v2.0.2
+ * vue-draggable-nested-tree v2.0.3
  * (c) 2018-present phphe <phphe@outlook.com>
  * Released under the MIT License.
  */
