@@ -1,6 +1,6 @@
 {
   "name": "vue-draggable-nested-tree",
-  "version": "2.0.1",
+  "version": "2.0.1-reorder-pages-fix",
   "description": "A draggable tree view component for vue2",
   "main": "dist/vue-draggable-nested-tree.cjs.js",
   "module": "dist/vue-draggable-nested-tree.es.js",
@@ -20,7 +20,7 @@
     "build": "node build-lib.js"
   },
   "dependencies": {
-    "draggable-helper": "^1.0.10",
+    "draggable-helper": "git://github.com/shaydoc/draggable-helper.git#reorder-pages-fork",
     "helper-js": "^1.0.53",
     "tree-helper": "^1.0.5",
     "vue": "^2.5.2"
